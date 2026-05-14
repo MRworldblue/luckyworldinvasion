@@ -1,0 +1,13 @@
+name = "TACZ Bullet Proof Enchant Forge Add-on"
+filename = "bulletarmorenchant-1.1-1.20.1 .jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "64899e1f7e9b71922681f96360aa1d1932dbcad9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5606533
+project-id = 1078483

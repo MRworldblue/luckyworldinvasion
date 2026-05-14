@@ -1,0 +1,13 @@
+name = "Torrezx-Better boss bar"
+filename = "Torrezx-Better_boss_x.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9197d0fa6d2343109ec632e1c3e658fdd29e8945"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5043733
+project-id = 906862

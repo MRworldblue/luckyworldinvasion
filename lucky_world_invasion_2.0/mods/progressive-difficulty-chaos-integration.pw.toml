@@ -1,0 +1,13 @@
+name = "Progressive Difficulty: Chaos Integration"
+filename = "Progressive Difficulty Chaos Integration-1.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a8547e347bd31aef6bfaa3fcae010cf061ca9c89"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6243647
+project-id = 1180755

@@ -1,0 +1,13 @@
+name = "Apotheosis Mix (Remove Recipes)"
+filename = "apotheosismix-1.20.1-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "441933fcf6a5f961daa2744f7fef3b9552b8b918"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5977022
+project-id = 1150401

@@ -1,0 +1,16 @@
+{
+    "advancements.too_much_dedication.descr": "获得腾炎锄",
+    "advancements.too_much_dedication.title": "过度投入",
+    "advancements.very_serious_dedication.descr": "获得咒魂锄",
+    "advancements.very_serious_dedication.title": "极度专注",
+    "item_group.cataclysm_tools.cataclysm_tools_tab": "灾变：工具",
+    "item.cataclysm_tools.cursium_axe": "§d咒魂斧",
+    "item.cataclysm_tools.cursium_hoe": "§d咒魂锄",
+    "item.cataclysm_tools.cursium_pickaxe": "§d咒魂镐",
+    "item.cataclysm_tools.cursium_shovel": "§d咒魂锹",
+    "item.cataclysm_tools.cursium_sword": "§d咒魂剑",
+    "item.cataclysm_tools.ignitium_axe": "§d腾炎斧",
+    "item.cataclysm_tools.ignitium_hoe": "§d腾炎锄",
+    "item.cataclysm_tools.ignitium_pickaxe": "§d腾炎镐",
+    "item.cataclysm_tools.ignitium_shovel": "§d腾炎锹"
+}

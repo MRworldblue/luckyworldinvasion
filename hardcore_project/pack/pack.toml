@@ -1,0 +1,13 @@
+name = "Lucky World Invasion"
+author = "huanghui"
+version = "2.7.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5e3807e724cee574c3ff5d19b6f1b210587586fa82de95eb2b8a1f9161da70d5"
+
+[versions]
+forge = "47.4.4"
+minecraft = "1.20.1"

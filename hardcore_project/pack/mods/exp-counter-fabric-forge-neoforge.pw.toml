@@ -1,0 +1,13 @@
+name = "EXP Counter [Fabric/Forge/NeoForge]"
+filename = "expcounter-1.20.1-forge-2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4c1b1fc01739016389f69c5341aaa21f248ce3fb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7730135
+project-id = 1003151

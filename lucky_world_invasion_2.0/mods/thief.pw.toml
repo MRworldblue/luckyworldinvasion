@@ -1,0 +1,13 @@
+name = "Thief"
+filename = "thief-1.20.1-1.2.0.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a99c69b3fbcaf7f522bb9a3033d020c4df199c78"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6807555
+project-id = 839159

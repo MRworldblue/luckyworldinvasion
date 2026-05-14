@@ -1,0 +1,13 @@
+name = "Maidsoul Kitchen"
+filename = "maidsoulkitchen-1.20.1-alpha-v0.2.4-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e7fc67609084a88298c9050a8a4952f4a68e4db6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6798801
+project-id = 1162577

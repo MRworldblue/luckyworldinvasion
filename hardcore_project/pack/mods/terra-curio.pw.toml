@@ -1,0 +1,13 @@
+name = "Terra Curio"
+filename = "TerraCurio-0.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3489cc5733970042faef8f5f5d12d143e87a3311"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7449534
+project-id = 1027625

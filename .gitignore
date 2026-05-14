@@ -1,0 +1,28 @@
+# Ignore heavy archives and executables
+*.zip
+*.exe
+*.rar
+*.7z
+*.tar.gz
+
+# Ignore literal mod files (Packwiz uses .pw.toml instead of jars)
+*.jar
+
+# Ignore IDE and OS specific files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Ignore local logs
+*.log
+logs/
+debug/
+
+# Specific ignores for this project
+# (We ignore the heavy ZIP exports from Packwiz, but we keep the source directories)
+lucky_world_invasion_2.0/*.zip
+hardcore_project/pack/*.zip
+client_main.zip
+packwiz.zip
+client_main/

@@ -1,0 +1,267 @@
+# 📊 Mod Comparison: Client vs Server
+
+### 🖥️ Client-Only Mods (Likely UI/Optimization/Minimaps)
+These mods are in `modlist.html` but not found in the server's `mods` folder.
+
+- AI Improvements
+- AllTheLeaks (Memory Leak Fix)
+- Almanac Lib
+- AlwaysEat
+- Apotheosis Mix (Remove Recipes)
+- Apotheosis Modern Ragnarok: Zero
+- Apotheotic Additions
+- AppleSkin
+- Architectury API
+- Armor Points ++
+- AsyncParticles
+- Better Advancements
+- Better Fps - Render Distance[Forge]
+- Better Treasure Map
+- Boat Break Fix [Neo/Forge/Fabric/Quilt]
+- Boat Item View (Forge/Neoforge)
+- Born in Chaos
+- Bounced!
+- Cataclysm Tools
+- Catalogue
+- Charm of Undying (Fabric/Forge/Quilt)
+- Chat Heads
+- Chat Impressive Animation
+- Cherished Worlds
+- Clickable advancements[Forge/Fabric]
+- Cloth Config API (Fabric/Forge/NeoForge)
+- Comforts (Fabric/Forge/Quilt)
+- Complementary Shaders - Reimagined
+- Complementary Shaders - Unbound
+- Connectivity
+- Controllable
+- Controlling
+- Corpse x Cosmetic Armor Reworked Compat
+- Corpse x Curios API Compat
+- Crafting Tweaks
+- Crash Assistant
+- CrashExploitFixer
+- CreativeCore
+- Curios API (Forge/NeoForge)
+- Default Options
+- Deimos Lib
+- Durability Tooltip
+- Enchanted Book Redesign
+- Enchantment Descriptions
+- End's Phantasm
+- Entity Culling Fabric/Forge
+- Essential Mod
+- Euphoria Patches
+- Every Compat (Wood Good)
+- EXP Counter [Fabric/Forge/NeoForge]
+- Explosive Enhancement: Reforged
+- Extreme sound muffler - (Neo)Forge
+- Farmer's Delight
+- FerriteCore ((Neo)Forge)
+- Flerovium
+- Framework
+- FTB Essentials (Forge & Fabric)
+- FTB Filter System
+- FTB Library (Forge)
+- FTB Quests (Forge)
+- FTB Teams (Forge)
+- FTB Ultimine (Forge)
+- FTB XMod Compat
+- Fuze's Relics
+- Game Menu Remove GFARB
+- Gensokyo Delight ~ Youkai's Homecoming
+- Great Scrollable Tooltips
+- Healing Bed
+- Iceberg [Neo/Forge]
+- ImmediatelyFast
+- Immersive UI
+- Improved Mobs (Forge)
+- Inventory HUD+
+- Iris/Oculus & GeckoLib Compat
+- Item Borders [Neo/Forge]
+- Item Highlighter [Neo/Forge]
+- ItemLocks
+- ItemPhysic Lite
+- Jade 🔍
+- Just Enough Characters
+- Just Enough Effect Descriptions (JEED)
+- Just Enough Items (JEI)
+- Just Enough Resources (JER)
+- Ksyxis
+- Lan Server Properties
+- Legendary Tooltips [Neo/Forge]
+- L_Ender 's Cataclysm
+- Let Me Despawn
+- Lionfish API
+- Log Begone
+- Loot Beams: Relooted!
+- Lootr (Forge & NeoForge)
+- Lucky Block
+- MaFgLib
+- Maidsoul Kitchen
+- Maid Useful Tasks
+- Majrusz Library
+- Majrusz's Accessories
+- Majrusz's Enchantments
+- Majrusz's Progressive Difficulty
+- MakeUp - Ultra Fast | Shaders
+- MmmMmmMmmMmm (Target Dummy)
+- Mobtimizations - Entity Performance Fixes
+- Model Gap Fix
+- Modern UI
+- Moonlight Lib
+- More Overlays Updated
+- Mouse Tweaks
+- Neruina - Ticking Entity Fixer
+- No Farmland Trample
+- Nolijium
+- NonConflictKeys [Forge]
+- Not Enough Recipe Book [NERB]
+- Oculus
+- OWorld2Create
+- Particular ✨ Reforged
+- Passive SearchBar
+- Pick Up Notifier
+- playerAnimator
+- PlayerRevive
+- Polymorph (Fabric/Forge/Quilt)
+- Prism [Neo/Forge]
+- Progressive Difficulty: Chaos Integration
+- Quests Kill Task Tweaks
+- Radium Reforged
+- Raw's Visual keybinder
+- Refined Polymorphism
+- Relics: Artifacts Compat
+- Savage Ender Dragon[Forge/Fabric]
+- Save My Shaky Network
+- Searchables
+- Server Performance - Smooth Chunk Save[Forge/Fabric]
+- Shoulder Surfing Reloaded
+- Simple Voice Chat
+- Smooth Boot (Reloaded)
+- Sodium/Embeddium Dynamic Lights
+- Sodium/Embeddium Options API
+- Sodium/Embeddium Options Mod Compat
+- Sound Physics Remastered
+- Spice of Life: Carrot Edition
+- Staaaaaaaaaaaack (Stxck)
+- Super Block World [Forge]
+- SuperMartijn642's Config Lib
+- SuperMartijn642's Core Lib
+- TACZ Bullet Proof Enchant Forge Add-on
+- [TACZ] Gucci & Vuitton Attachments
+- [TACZ] LesRaisins Tactical Equipements
+- [TaCZ] Timeless and Classics Zero
+- TenshiLib (Forge)
+- TerraBlender (Forge)
+- The Pure Suffering Mod
+- The Twilight Forest
+- Third Person Shooting: Zero
+- Torrezx-Better boss bar
+- Trade Uses
+- TslatEntityStatus (TES)
+- Tweakerge
+- Twilight Forest - Dungeons & Villages
+- Voiceless Survival
+- Void Totem (Forge)
+- What Are They Up To (Watut)
+- Wither Spawn Fix [Fabric/Forge/Neoforge]
+- World Play Time
+- World Preview
+- XaeroPlus
+- Xaero's Minimap
+- Xaero's World Map
+- Xenon
+- Yakurum Mod
+- YDM's Weapon Master
+- YetAnotherConfigLib
+
+### 🌐 Server-Only Mods (Likely server utilities or mismatched filenames)
+These `.jar` files are in the server's `mods` folder but not listed in the client `modlist.html`.
+
+- AI-Improvements-1.20-0.5.2.jar
+- alltheleaks-0.1.4-beta+1.20.1-forge.jar
+- apotheosismix-1.20.1-1.1.0.jar
+- apotheosis_modern_ragnarok-4.0.3+mc1.20.1+tacz1.1.5.jar
+- ApotheoticAdditionsV2.2.2.jar
+- architectury-9.2.14-forge.jar
+- BoatBreakFix-Universal-1.0.2.jar
+- bocchium-1.20.1-0.0.3.jar
+- born_in_chaos_[Forge]1.20.1_1.7.jar
+- bulletarmorenchant-1.1-1.20.1 .jar
+- charmofundying-forge-6.5.0+1.20.1.jar
+- Chunky-1.3.146.jar
+- cloth-config-11.1.136-forge.jar
+- comforts-forge-6.4.0+1.20.1.jar
+- corpsecurioscompat-1.20.x-Forge-3.0.2.jar
+- cosmeticcorpsecompat-1.19.x-1.20.x-Forge-1.0.0.jar
+- CreativeCore_FORGE_v2.12.32_mc1.20.1.jar
+- csgobox-2.0.1.jar
+- curios-forge-5.14.1+1.20.1.jar
+- despawntweaks-forge-1.0.0-1.20.1.jar
+- dragonfight-1.20.1-4.6.jar
+- dummmmmmy-1.20-2.0.7.jar
+- easy_npc-forge-1.20.1-5.9.1.jar
+- everycomp-1.20-2.8.7-forge.jar
+- explosiveenhancement-1.1.0-1.20.1-client-and-server.jar
+- ezvcsurvival-forge-1.20.1-1.1.2.jar
+- ferritecore-6.0.1-forge.jar
+- ftb-xmod-compat-forge-2.1.3.jar
+- fuze_relics-1.20.1-1.0.9.jar
+- guccivuitton-1.20.1-0.2.2.jar
+- Healing+Bed+1.20.1.jar
+- immersive_aircraft-1.2.2+1.20.1-forge.jar
+- improvedmobs-1.20.1-1.13.5-forge.jar
+- jei-1.20.1-forge-15.20.0.112.jar
+- Log-Begone-Forge-1.20.1-1.0.8.jar
+- lootr-forge-1.20-0.7.35.91.jar
+- lrtactical-1.20.1-0.2.4.jar
+- lucky-block-forge-1.20.1-13.0.jar
+- maid_storage_manager-1.9.5.jar
+- maid_useful_task-1.3.4-all.jar
+- majrusz-library-forge-1.20.1-7.0.8.jar
+- majruszs-enchantments-forge-1.20.1-1.10.8.jar
+- man_of_many_planes-0.2.0+1.20.1-forge.jar
+- midnightlib-forge-1.4.2.jar
+- mobtimizations-forge-1.20.1-1.0.0.jar
+- moonlight-1.20-2.14.4-forge.jar
+- Neruina-2.1.2-forge+1.20.1.jar
+- Not Enough Recipe Book-FORGE-0.4.1+1.20.1.jar
+- notrample-1.20.1-1.0.1.jar
+- particular-1.20.1-Forge-1.2.4.jar
+- phantasm-1.0.1.jar
+- PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar
+- polymorph-forge-0.49.10+1.20.1.jar
+- potion_level_fix-1.3HOTFIX.jar
+- PureSuffering-1.20.1-1.6.8.5R-LTS1.jar
+- Quest Kill Task-0.2.0+1.20.1-forge.jar
+- radium-mc1.20.1-0.12.4+git.26c9d8e.jar
+- rarcompat-1.20.1-0.1.7.jar
+- refinedpolymorph-0.1.1-1.20.1.jar
+- skinrestorer-2.3.3+1.20-forge.jar
+- smoothchunk-1.20.1-4.1.jar
+- smsn-forge-1.1.6+mc1.20.1.jar
+- solcarrot-1.20.1-1.15.1.jar
+- spawnstructures_forge-1.0.7.jar
+- staaaaaaaaaaaack-forge-1.20.1-1.5-71.jar
+- super_block_world-0.0.8-1.20.jar
+- supermartijn642configlib-1.1.8-forge-mc1.20.jar
+- supermartijn642corelib-1.1.18-forge-mc1.20.1.jar
+- tacz-1.20.1-1.1.5-all.jar
+- tenshilib-1.20.1-1.7.6-forge.jar
+- TerraBlender-forge-1.20.1-3.0.1.10.jar
+- TES-forge-1.20.1-1.5.1.jar
+- tf_dnv-1.2.1.jar
+- torchesbecomesunlight-0.4.1-hotfix.jar
+- twilightforest-1.20.1-4.3.2508-universal.jar
+- txnilib-forge-1.0.24-1.20.1.jar
+- voicechat-forge-1.20.1-2.5.30.jar
+- voidtotem-forge-1.20-3.0.1.jar
+- watut-forge-1.20.1-1.2.3.jar
+- weaponmaster_ydm-forge-1.20.1-4.2.3.jar
+- wither_spawn_fix-1.0.0.jar
+- Xaeros_Minimap_25.2.6_Forge_1.20.jar
+- XaerosWorldMap_1.39.9_Forge_1.20.jar
+- yakurum-1.20.1-1.5.jar
+- yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar
+- ZZ.JJThunder_To_The_Max_1.20.1_v0.2.0.jar
+- ZZ.Terrathunder_1.20.1_v0.5.0.jar

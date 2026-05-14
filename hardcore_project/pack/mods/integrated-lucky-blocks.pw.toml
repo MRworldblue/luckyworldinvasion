@@ -1,0 +1,13 @@
+name = "Integrated Lucky Blocks"
+filename = "integrated_lucky_blocks-1.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "41fc024a708833e97d9fe58ba2085a2822ebb891"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7215929
+project-id = 1253742

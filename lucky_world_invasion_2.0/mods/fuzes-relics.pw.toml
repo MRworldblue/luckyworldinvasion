@@ -1,0 +1,13 @@
+name = "Fuze's Relics"
+filename = "fuze_relics-1.20.1-1.0.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4d5f49252024889f9c7ec40781b33825071bd5f7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5709643
+project-id = 585263

@@ -1,0 +1,13 @@
+name = "Apotheosis Modern Ragnarok: Zero"
+filename = "apotheosis_modern_ragnarok-5.0.3+mc1.20.1+tacz1.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e4cc3a99b4d1a0ec7eeffd2d3761b132691c097e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6752522
+project-id = 966582

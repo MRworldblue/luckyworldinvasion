@@ -1,0 +1,13 @@
+name = "Super Block World [Forge]"
+filename = "super_block_world-0.0.8-1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "843839ee9f7ce43c273f8ac6660e7977784afb31"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4793586
+project-id = 897307

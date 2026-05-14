@@ -1,0 +1,13 @@
+name = "Shadowlands"
+filename = "shadowlands-4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "03f13dae2840540dc049a44b71c654759824d849"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6774818
+project-id = 398372

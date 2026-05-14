@@ -1,0 +1,13 @@
+name = "Cataclysm Tools"
+filename = "cataclysm_tools-2.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9459f93c1ced898690086ef0bc34662ccfcf4dd9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6709292
+project-id = 1037520
