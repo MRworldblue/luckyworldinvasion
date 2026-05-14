@@ -1,0 +1,11 @@
+{
+  "forceHardcoreMode": true,
+  "disableCreativeModeSelection": true,
+  "forcePeaceful": false,
+  "forceEasy": false,
+  "forceNormal": false,
+  "forceHard": true,
+  "forceCheatsDisabled": true,
+  "shouldLockDifficulty": true,
+  "shouldChangeDifficultyWhenAlreadyLocked": true
+}

@@ -1,0 +1,13 @@
+name = "Difficulty Lock"
+filename = "difficultylock-1.20.1-4.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9yvZtixz/versions/EaIazNcc/difficultylock-1.20.1-4.7.jar"
+hash-format = "sha512"
+hash = "1bc0f54ac712cefdaf811916af47cc983addefad9cf9f1b1bba6ab9413a89ff4af2ba2eeccdf4ae5a021c91467161c0f4be868ab6a19aa77f88e34dec28150ca"
+
+[update]
+[update.modrinth]
+mod-id = "9yvZtixz"
+version = "EaIazNcc"
