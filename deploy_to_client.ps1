@@ -1,5 +1,7 @@
 $packDir = ".\hardcore_project\pack"
-$clientDir = ".\client_main\overrides"
+# REMPLACEZ CE CHEMIN PAR CELUI DE VOTRE INSTANCE CURSEFORGE
+$clientDir = "C:\Users\Main\curseforge\minecraft\Instances\Lucky World Invasion"
+
 
 Write-Host "Deploying Packwiz project to client_main..."
 
