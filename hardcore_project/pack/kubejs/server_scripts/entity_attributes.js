@@ -1,6 +1,5 @@
-let $MobEffectInstance = Java.loadClass('net.minecraft.world.effect.MobEffectInstance')
-
 EntityEvents.spawned((event) => {
+    let $MobEffectInstance = Java.loadClass('net.minecraft.world.effect.MobEffectInstance')
     const { entity, level } = event
     if (!entity || !entity.isLiving() || !entity.isMonster()) {
         return
