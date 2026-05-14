@@ -11515,7 +11515,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "0ab295b94a1be0145c9897a26481a48d84c6627b36697cb05d97dc5e68378820"
+hash = "1d8b0cd4c6bcea416711387eb66cd1462872269b7e2e28f427b312200389250b"
 metafile = true
 
 [[files]]
@@ -11611,6 +11611,11 @@ metafile = true
 [[files]]
 file = "mods/deimos-fabric-forge-neoforge.pw.toml"
 hash = "047c1868145100918b29d49d73cdc946f1aa0e53ea6e9fe3056827705c5f174b"
+metafile = true
+
+[[files]]
+file = "mods/difficulty-lock.pw.toml"
+hash = "79c0e47798cbe6627bb214757f90b703e196b486ccc5d2491f8885042fa68d23"
 metafile = true
 
 [[files]]

@@ -82,7 +82,7 @@ const SKILL_BREAK_MOBS = [
  * 
  * @param {Internal.LivingHurtEvent} event 
  */
-ForgeEvents.onEvent('net.minecraftforge.event.entity.living.LivingHurtEvent', event => {
+EntityEvents.hurt(event => {
     const { source, entity, amount } = event
     const { player } = source
 
