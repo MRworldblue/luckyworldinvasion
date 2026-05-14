@@ -11208,7 +11208,7 @@ hash = "772d26fab43e44bae476b2787e7a3fc98edd0a325bfc16960a3d8e8bb0cf834b"
 
 [[files]]
 file = "kubejs/server_scripts/entity_events.js"
-hash = "c4a31978979f2d94bb13eed9115bb4f3ab58cac26058fc006cd19c02ed297a56"
+hash = "b44e6f85ebf0302aa2c14f34bd831be05ac9602d650afefd3c1e395d455c5a2c"
 
 [[files]]
 file = "kubejs/server_scripts/entity_skills.js"
@@ -11265,10 +11265,6 @@ hash = "337f85fdfea758029e3b55d1bbd2a6f5d915bbdb08c192901234f8ac13165006"
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
 hash = "6f558938578472d3947b17cc0476a106b38c1035e265c5f1722dada9fed69103"
-
-[[files]]
-file = "kubejs/startup_scripts/living_hurt_events.js"
-hash = "467fe70404286b9e755b6d6d91969879e887521efb60dfb5d6d27d414c248542"
 
 [[files]]
 file = "kubejs/startup_scripts/mob_effect_event.js"
