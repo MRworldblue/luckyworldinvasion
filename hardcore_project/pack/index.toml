@@ -7008,7 +7008,7 @@ hash = "fa25d14b87ccf65437202d5a395394379203817c189862ac6963a4a2f0b4bbb2"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "972079c3cd7ae568b6102f0fb6ccc89899cd6f00e4682979eed640520042a390"
+hash = "ad4e00fe210a54f9afc15023b1e04e22a0920346920f78c88b0164f7dc45b169"
 
 [[files]]
 file = "config/despawntweaks-common.toml"
@@ -11216,7 +11216,7 @@ hash = "2e921f7ac8a4b3e46cf5bc45a8e52ec4b0c02da5dc449f0702e9f2d209fb52fa"
 
 [[files]]
 file = "kubejs/server_scripts/hardcore_lock.js"
-hash = "462052830c2757ca98adef46e9e7c5102a86ac19ffd00ce321f5463b52a01a06"
+hash = "97f0e2c39808b7aae38a514fc1b31990fa2c265fc1904b2d308c47d219b980f1"
 
 [[files]]
 file = "kubejs/server_scripts/identity_limit.js"
@@ -11631,11 +11631,6 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "e4c69a3551a4343fc76fb135266aecac0042863693f04d2c58a26c71b6e988d9"
-metafile = true
-
-[[files]]
-file = "mods/ender-trigon.pw.toml"
-hash = "1e68ed98d9756878824419128b1cb77366c50fc829028ea8ef00aca557cd33dd"
 metafile = true
 
 [[files]]
@@ -12490,7 +12485,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "646982ea13d8eecab782824df89f9f3fc3100ba517106b3beeff333f51161834"
+hash = "8a3772b1489221141afa0ce7021e6484b4861e622b58b31cff0f3c4cbd67728c"
 
 [[files]]
 file = "resourcepacks/torrezx-better-boss-bar.pw.toml"
