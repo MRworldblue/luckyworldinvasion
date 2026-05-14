@@ -7,9 +7,8 @@
 ServerEvents.loaded(event => {
     let server = event.server;
     
-    // Force la difficulté à Hard et la verrouille
-    server.setDifficulty('hard');
-    server.setDifficultyLocked(true);
+    // Force la difficulté à Hard
+    server.runCommandSilent('difficulty hard');
 });
 
 // Simulation du Hardcore pour le Solo

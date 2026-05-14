@@ -1,4 +1,4 @@
-const $MobEffectInstance = Java.loadClass('net.minecraft.world.effect.MobEffectInstance')
+let $MobEffectInstance = Java.loadClass('net.minecraft.world.effect.MobEffectInstance')
 
 EntityEvents.spawned((event) => {
     const { entity, level } = event
