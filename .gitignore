@@ -40,6 +40,8 @@ UsData.json
 secrets/
 
 # AI Internal & orchestration backups
+.agents/
+tasks/
 uncommitted_backup/
 private/
 internal/
