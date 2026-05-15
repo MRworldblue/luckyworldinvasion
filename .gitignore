@@ -18,7 +18,9 @@ Thumbs.db
 *.log
 logs/
 debug/
-crash-reports/
+crash_reports/
+tools/
+incoming/
 
 # Player data and server cache
 world/
