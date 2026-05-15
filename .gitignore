@@ -14,15 +14,36 @@
 .DS_Store
 Thumbs.db
 
-# Ignore local logs
+# Ignore local logs and debug
 *.log
 logs/
 debug/
+crash-reports/
+
+# Player data and server cache
+world/
+world_*/
+usernamecache.json
+usercache.json
+banned-players.json
+banned-ips.json
+ops.json
+whitelist.json
+eula.txt
+
+# Secrets
+UsData.json
+*.env
+.env*
+secrets/
+
+# AI Internal & orchestration backups
+uncommitted_backup/
+private/
+internal/
+directives/
 
 # Specific ignores for this project
-# (We ignore the heavy ZIP exports from Packwiz, but we keep the source directories)
-lucky_world_invasion_2.0/*.zip
+lucky_world_invasion_2.0/
 hardcore_project/pack/*.zip
-client_main.zip
-packwiz.zip
 client_main/
